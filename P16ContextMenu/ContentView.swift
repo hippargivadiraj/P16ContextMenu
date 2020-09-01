@@ -24,7 +24,6 @@ struct ContentView: View {
                     }){
                         Text("Red")
                     }
-
                     Button( action: {
                         self.backgroundColor = .green
                     }){
